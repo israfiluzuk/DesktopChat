@@ -1,0 +1,8 @@
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Debug\Server.Login_Screen.resources
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Debug\Server.Properties.Resources.resources
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Debug\Login_Screen.csproj.GenerateResource.Cache
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Debug\Server.exe
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Debug\Server.exe
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Debug\Server.pdb
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Debug\Server.pdb
+E:\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Debug\Login_Screen.csprojResolveAssemblyReference.cache

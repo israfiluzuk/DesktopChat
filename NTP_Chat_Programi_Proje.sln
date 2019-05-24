@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAT", "Server\CHAT.csproj", "{8C20774E-AE82-43F7-8596-20D47F58AC07}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Group Chat", "Group Chat\Group Chat.vdproj", "{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Default = CD_ROM|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|Default = DVD-5|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.CD_ROM|Default.ActiveCfg = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.CD_ROM|Default.Build.0 = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.Debug|Default.ActiveCfg = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.Debug|Default.Build.0 = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.DVD-5|Default.ActiveCfg = Debug|Any CPU
+		{8C20774E-AE82-43F7-8596-20D47F58AC07}.DVD-5|Default.Build.0 = Debug|Any CPU
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.CD_ROM|Any CPU.ActiveCfg = Release
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.CD_ROM|Default.ActiveCfg = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.CD_ROM|Default.Build.0 = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.Debug|Any CPU.ActiveCfg = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.Debug|Any CPU.Build.0 = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.Debug|Default.ActiveCfg = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.Debug|Default.Build.0 = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.DVD-5|Any CPU.ActiveCfg = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.DVD-5|Any CPU.Build.0 = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.DVD-5|Default.ActiveCfg = Debug
+		{BB6C2292-EDDB-4E0B-B4AA-58B62088F5CC}.DVD-5|Default.Build.0 = Debug
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Default = CD_ROM|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Default = CD_ROM|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Default = CD_ROM|Default
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|Default = DVD-5|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|Default = SingleImage|Default
+	EndGlobalSection
+EndGlobal

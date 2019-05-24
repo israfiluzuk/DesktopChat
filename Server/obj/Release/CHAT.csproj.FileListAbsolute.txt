@@ -1,0 +1,16 @@
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\chat_users.accdb
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\Server.exe
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\Server.pdb
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\MetroFramework.Design.dll
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\MetroFramework.dll
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\MetroFramework.Fonts.dll
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\bin\Release\MySql.Data.dll
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.frmChat.resources
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.frmGiris.resources
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.frmKayit.resources
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.frmSifreUnuttum.resources
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.Properties.Resources.resources
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\CHAT.csproj.GenerateResource.Cache
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.exe
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\Server.pdb
+E:\İSRAFİL\İSRAFİL\2016-2019 Yazılım Mühendisliği\2.Sınıf\2.Dönem\Nesne tabanlı Programlama\PROJE\CHAT PROGRAMME\NTP_Chat_Programi_Proje\Server\obj\Release\CHAT.csprojResolveAssemblyReference.cache
